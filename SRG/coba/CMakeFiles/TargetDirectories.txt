@@ -1,0 +1,3 @@
+/home/pi/SRG/coba/CMakeFiles/rebuild_cache.dir
+/home/pi/SRG/coba/CMakeFiles/edit_cache.dir
+/home/pi/SRG/coba/CMakeFiles/coba.dir

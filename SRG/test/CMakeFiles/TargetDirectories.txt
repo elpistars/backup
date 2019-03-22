@@ -1,0 +1,3 @@
+/home/pi/SRG/Bola2Servo/CMakeFiles/rebuild_cache.dir
+/home/pi/SRG/Bola2Servo/CMakeFiles/edit_cache.dir
+/home/pi/SRG/Bola2Servo/CMakeFiles/oke.dir

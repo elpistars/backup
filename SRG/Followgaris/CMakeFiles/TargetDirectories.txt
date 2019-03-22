@@ -1,0 +1,3 @@
+/home/pi/SRG/Followgaris/CMakeFiles/rebuild_cache.dir
+/home/pi/SRG/Followgaris/CMakeFiles/edit_cache.dir
+/home/pi/SRG/Followgaris/CMakeFiles/garis.dir
