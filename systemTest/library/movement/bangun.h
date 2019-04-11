@@ -43,7 +43,7 @@ void bangun_belakang2()
         dxl_write_word(19,30,512);
         dxl_write_word(20,30,512);
 
-        kirimPacketGerak(18,7,1,id,UP_B,1,delay_UP_B,speed_UP_B);
+        kirimPacketGerak(18,6,1,id,UP_B,1,delay_UP_B,speed_UP_B);
 
 }
 /*void bangun_belakang3()

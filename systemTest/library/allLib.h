@@ -2,11 +2,11 @@
 #define ALLLIB_H
 
 //------------------------------------------------ImageProc----------------------
-#include <opencv2/objdetect/objdetect.hpp> // Library Opencv
+/*#include <opencv2/objdetect/objdetect.hpp> // Library Opencv
 #include <opencv2/core/core.hpp> // Library Opencv
 #include <opencv2/highgui/highgui.hpp> // Library Opencv
 #include <opencv2/imgproc/imgproc.hpp>// Library Opencv
-#include <opencv2/opencv.hpp>// Library Opencv
+#include <opencv2/opencv.hpp>// Library Opencv*/
 //#include <conio.h>*/
 
 //------------------------------------------------Sensor dan Dynamixel----------------------
@@ -61,7 +61,7 @@
 
 
 using namespace std;
-using namespace cv;
+//using namespace cv;
 
 int comger = 1;
 int comkir = 1;
